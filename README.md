@@ -2,8 +2,6 @@
 
 Weather App built using HTML, CSS, and JS.
 
-### [View the demo](https://faishalirwn.github.io/weather-app-top/)
-
 ![Screenshot](./weather-app.png)
 
 ## Purpose
